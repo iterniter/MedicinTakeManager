@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051758235213",
+    "firebase_url": "https://medecintakemanager.firebaseio.com",
+    "project_id": "medecintakemanager",
+    "storage_bucket": "medecintakemanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051758235213:android:87ce9760d63265a2641604",
+        "android_client_info": {
+          "package_name": "com.example.medecinetakemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051758235213-6tv3go94h8sph91gl1vf82ihb8qqe8tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_oQx49chdPooU3tvVkItRDoOHms0JZn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051758235213-6tv3go94h8sph91gl1vf82ihb8qqe8tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

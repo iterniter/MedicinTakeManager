@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MedecinTakeManager</string>
+    <string-array name="Names">
+        <item>Layth</item>
+        <item>Oubay</item>
+    </string-array>
 </resources>
